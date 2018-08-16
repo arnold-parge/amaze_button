@@ -1,0 +1,15 @@
+name: amaze_button
+description: A new flutter package project.
+version: 0.0.1
+author: Arnold Parge <pargearnold@gmail.com>
+homepage: 
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
